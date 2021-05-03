@@ -1,3 +1,4 @@
 Rabbit and tortoise are chasing each other in a running race. 
 
-Rabbit was moving faster than tortoise. Anticipating that tortoise wont reach the finish so the rabbit has taken a nap. 
+Rabbit was moving faster than tortoise. Anticipating that tortoise wont reach the finish so the rabbit has taken a nap. Unfortunately, in the time
+period tortoise has reached the finish line despite of its slow movement.
