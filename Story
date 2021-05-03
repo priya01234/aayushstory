@@ -1,1 +1,3 @@
 Rabbit and tortoise are chasing each other in a running race. 
+
+Rabbit was moving faster than tortoise. Anticipating that tortoise wont reach the finish so the rabbit has taken a nap. 
